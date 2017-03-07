@@ -16,6 +16,9 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+# ignore the psds
+PSDs/
+
 
 # =========================
 # Operating System Files
